@@ -1,4 +1,4 @@
-package com.task.manager.taskmanager;
+package com.task.manager.taskmanager.controller;
 
 import com.task.manager.taskmanager.service.TaskService;
 import com.task.manager.taskmanager.service.dto.TaskDto;
